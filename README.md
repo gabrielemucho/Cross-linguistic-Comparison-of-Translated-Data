@@ -4,8 +4,8 @@ The code displayed in this repository is part of my experimentation with the mul
 
 # List of topics
 
-* Verb *Say*: Modelling Comparison by Lexical Variants across Translations (to be added soon)
-* Verb *Say*: Modelling Comparison by Semantic Categories across Translations (to be added soon)
+* Verb *Say*: Modelling Comparison by Lexical Variants across Translations (the code to be added soon)
+* Verb *Say*: Modelling Comparison by Semantic Categories across Translations (the code to be added soon)
 
 # Author
 Dr Gabriele Salciute Civiliene, DDH, King's College London
